@@ -1,4 +1,4 @@
-![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/res/Fraunhofer-IPA.png)
+![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/blob/main/res/Fraunhofer-IPA.png)
 
 ## Table of Contents
 
@@ -15,12 +15,12 @@ Alignment of point clouds; fusion of multiple landmarks using unscented kalman f
 
 ## Prerequisites
 * openCV
-* mediapipe
+* MediaPipe
 * filter-py
 
 ## Installation
-* 'git clone git@github.com:PatrickFrueh/sensor_fusion-mediapipe-depth_camera.git'
-* 'run ...'
+* `git clone git@github.com:PatrickFrueh/sensor_fusion-mediapipe-depth_camera.git`
+* `run ...`
 
 
 ## License
