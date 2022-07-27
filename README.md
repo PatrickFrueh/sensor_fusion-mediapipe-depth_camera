@@ -1,4 +1,4 @@
-![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/blob/main/res/Fraunhofer-IPA.png)
+![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/blob/main/res/Fraunhofer-logo.png)
 
 ## Table of Contents
 
