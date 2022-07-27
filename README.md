@@ -11,7 +11,7 @@
 
 ## Description
 Hand detection using Google MediaPipe and multiple depth (stereovision) cameras.
-Alignment of point clouds; fusion of multiple landmarks using unscented kalman filter.
+Alignment of point clouds; fusion of multiple landmarks using Unscented Kalman Filter.
 
 ## Prerequisites
 * openCV
