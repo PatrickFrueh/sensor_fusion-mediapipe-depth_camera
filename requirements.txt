@@ -5,6 +5,7 @@ scipy
 # Image and video manipulation
 opencv-python
 pyrealsense2
+cvzone
 
 # Visualization and point clouds
 matplotlib
