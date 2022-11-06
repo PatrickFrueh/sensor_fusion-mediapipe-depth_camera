@@ -2,15 +2,15 @@
 numpy
 scipy
 
-# Image and video manipulation
-opencv-python
-pyrealsense2
-cvzone
-mediapipe
-
 # Visualization and point clouds
 matplotlib
 open3d
 
 # Kalman Filter & variations
 filterpy
+
+# Image and video manipulation
+opencv-python
+cvzone
+mediapipe
+pyrealsense2
