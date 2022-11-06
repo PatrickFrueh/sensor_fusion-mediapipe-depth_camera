@@ -1,0 +1,3 @@
+# The MatLab stereo camera calibrator is structured fairly intuitive.
+# The key component is setting the used INTRINSICS of the stereovision cameras.
+# These can be accessed: e.g. through the 'record-calibration_setting.py'-file
