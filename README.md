@@ -14,13 +14,11 @@ Hand detection using Google MediaPipe and multiple depth (stereovision) cameras.
 Alignment of point clouds; fusion of multiple landmarks using Unscented Kalman Filter.
 
 ## Prerequisites
-* openCV
-* MediaPipe
-* filter-py
+* pip
 
 ## Installation
 * `git clone git@github.com:PatrickFrueh/sensor_fusion-mediapipe-depth_camera.git`
-* `run ...`
+* `pip install -r requirements.txt`
 
 
 ## License
@@ -32,4 +30,4 @@ Alignment of point clouds; fusion of multiple landmarks using Unscented Kalman F
 Surname | Name | Mail
 --- | --- | ---
 Frueh | Patrick | patrick.frueh@gmx.net
-B. | Tim | T.B@ipa.fraunhofer.de
+Brander | Tim | tim.brander@ipa.fraunhofer.de

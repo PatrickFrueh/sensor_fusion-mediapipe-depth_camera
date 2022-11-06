@@ -1,0 +1,14 @@
+# Basic scientific operations
+numpy
+scipy
+
+# Image and video manipulation
+opencv-python
+pyrealsense2
+
+# Visualization and point clouds
+matplotlib
+open3d
+
+# Kalman Filter & variations
+filterpy
