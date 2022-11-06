@@ -18,7 +18,7 @@ Alignment of point clouds; fusion of multiple landmarks using Unscented Kalman F
 ## Installation
 After cloning the repo, installing the requirements should suffice.
 * `git clone git@github.com:PatrickFrueh/sensor_fusion-mediapipe-depth_camera.git`
-* `pip install -r requirements.txt`
+* `pip install -r requirements.txt`__
 Depending on your OS pyrealsense2 might need a different approach for the installing process.
 
 ## Feature Overview
