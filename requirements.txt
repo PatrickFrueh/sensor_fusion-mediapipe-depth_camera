@@ -6,6 +6,7 @@ scipy
 opencv-python
 pyrealsense2
 cvzone
+mediapipe
 
 # Visualization and point clouds
 matplotlib
