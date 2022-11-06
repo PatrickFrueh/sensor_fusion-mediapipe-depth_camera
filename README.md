@@ -17,13 +17,19 @@ Alignment of point clouds; fusion of multiple landmarks using Unscented Kalman F
 * pip
 
 ## Installation
+After cloning the repo, installing the requirements should suffice.
 * `git clone git@github.com:PatrickFrueh/sensor_fusion-mediapipe-depth_camera.git`
 * `pip install -r requirements.txt`
+Depending on your OS pyrealsense2 might need a different approach for the installing process.
 
+## Feature Overview
+- Under `src/calibration` the different methods for stereo camera calibration are displayed.
+It is suggested to use the `3d/point_clouds` approaches, as these have repeatedly shown the best results.
+The resulting *homogenous transformation matrix* is used in the following steps.
+- Under `src/unscented-kf-fusion` an adjusted `cvzone_fork.py` is used for the hand detection. It is used for the final fusion in `fusion.py` and `fusion-visualization.py`. 
 
 ## License
-
-## Citation
+Stanard MIT license
 
 ## Contact
 
