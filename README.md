@@ -6,7 +6,6 @@
 - [Requirements](#prerequisites)
 - [Installation](#installation)
 - [License](#license)
-- [Citation](#citation)
 - [Contact](#contact)
 
 ## Description
