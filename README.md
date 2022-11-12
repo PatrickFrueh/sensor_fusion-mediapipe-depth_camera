@@ -1,4 +1,4 @@
-![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/blob/main/res/Fraunhofer-logo.png)
+![Sensor fusion of multiple depth cameras using kalman filters](https://github.com/PatrickFrueh/sensor_fusion-mediapipe-depth_camera/blob/main/res/uni-stuttgart.png)
 
 ## Table of Contents
 
@@ -35,4 +35,3 @@ Stanard MIT license
 Surname | Name | Mail
 --- | --- | ---
 Frueh | Patrick | patrick.frueh@gmx.net
-Brander | Tim | tim.brander@ipa.fraunhofer.de
